@@ -12,6 +12,7 @@ Install with composer:
 ```bash
 composer require nixilla/cqrs-bundle
 ```
+test
 
 Add budle to AppKernel:
 
